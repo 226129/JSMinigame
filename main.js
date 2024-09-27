@@ -1,6 +1,6 @@
-import Minigame from "./class.js"; // Asegúrate de que la ruta y el nombre del archivo sean correctos
+import Minigame from "./class.js"; 
 
-const myGame = new Minigame([ // Debes pasar el arreglo al constructor
+const myGame = new Minigame([
     ['*', '░', 'O'],
     ['░', 'O', '░'],
     ['░', '^', '░'],
